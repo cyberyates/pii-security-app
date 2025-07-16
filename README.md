@@ -94,3 +94,4 @@ Course: Healthcare Information Systems Security
 ## 📄 License
 
 This project is for educational purposes only.
+# pii-security-app
